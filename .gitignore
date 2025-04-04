@@ -1,0 +1,5 @@
+# Ignore everything inside the "files" directory
+files/*
+
+# Ignore the ".zig-cache" directory and its contents
+.zig-cache/
